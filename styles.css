@@ -22,6 +22,7 @@ h1 {
 h4 {
 	color: green;
 	text align: center;
+
 }
 h2 {
 	color: orange;
@@ -34,4 +35,13 @@ img.display {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	height: 400px;
+	width: auto;
+}
+#title {
+	font-style: italic;
+	font-style: underline;
+
 }
