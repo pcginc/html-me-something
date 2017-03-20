@@ -1,0 +1,37 @@
+p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+p {
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+p {
+		text-align: center;
+		color: #0000FF
+}
+h1 {
+	color: red;
+	text-align: center;
+}
+h4 {
+	color: green;
+	text align: center;
+}
+h2 {
+	color: orange;
+	text-align: center;
+}
+body {
+	background-color: lightgreen;
+}
+img.display {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
