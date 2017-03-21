@@ -13,7 +13,7 @@ p {
 }
 p {
 		text-align: center;
-		color: #0000FF
+		color: brown;
 }
 h1 {
 	color: red;
@@ -37,11 +37,19 @@ img.display {
 	margin-right: auto;
 	margin-bottom: 10px;
 	margin-top: 10px;
-	height: 400px;
+	height: 300px;
 	width: auto;
 }
 #title {
 	font-style: italic;
 	font-style: underline;
 
+}
+#panoroma {
+  height: 100%;
+  width: 100%;
+}
+li {
+  text-align: center;
+  color: blue;
 }
